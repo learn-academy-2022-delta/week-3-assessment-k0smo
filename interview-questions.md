@@ -70,3 +70,5 @@ It is an object-oriented programming language.
 4. Ruby blocks: Ruby Blocks functions that are anonymous, and have do/end statements or inbetween curly brackets. ruby blocks are used to make multiple arguments Blocks are invoked by using the yield statement.
 
 5. Ruby hashes: Ruby hashes are similar to arrays. A hash can be almost any object. you can use a hash to give names to objects.
+
+<!-- test -->
